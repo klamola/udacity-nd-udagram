@@ -9,4 +9,7 @@ You'll need to create a new node server. Open a new terminal within the project 
 1. Initialize a new project: `npm i`
 2. run the development server with `npm run dev`
 
+### Elastic Beanstalk URl
+
+1. http://udacity-nd-udagram-dev.us-east-1.elasticbeanstalk.com/
 
